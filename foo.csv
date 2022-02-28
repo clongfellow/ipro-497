@@ -1,0 +1,165 @@
+time, machine_id, ps_name, mempct, cpupct, memabs, numthreads, user, path, pid
+2022-02-07 20:24:56.232999,None,System,0.0018126485636964706,5.3,None,244,NT AUTHORITY\SYSTEM,,4
+2022-02-07 20:24:56.232999,None,Registry,0.8201009988183491,0.0,None,4,NT AUTHORITY\SYSTEM,Registry,160
+2022-02-07 20:24:56.232999,None,services.exe,0.12115351075733435,0.0,None,13,NT AUTHORITY\SYSTEM,C:\Windows\System32\services.exe,468
+2022-02-07 20:24:56.232999,None,smss.exe,0.013276425966533608,0.0,None,2,NT AUTHORITY\SYSTEM,C:\Windows\System32\smss.exe,520
+2022-02-07 20:24:56.232999,None,lsass.exe,0.3392102339198476,2.6,None,14,NT AUTHORITY\SYSTEM,C:\Windows\System32\lsass.exe,584
+2022-02-07 20:24:56.232999,None,csrss.exe,0.07867874576477113,0.0,None,12,NT AUTHORITY\SYSTEM,C:\Windows\System32\csrss.exe,812
+2022-02-07 20:24:56.232999,None,wininit.exe,0.08421467245930359,0.0,None,1,NT AUTHORITY\SYSTEM,C:\Windows\System32\wininit.exe,912
+2022-02-07 20:24:56.232999,None,fontdrvhost.exe,0.03786965783073978,0.0,None,5,Font Driver Host\UMFD-0,C:\Windows\System32\fontdrvhost.exe,1140
+2022-02-07 20:24:56.232999,None,WUDFHost.exe,0.22790381400854,0.0,None,12,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\WUDFHost.exe,1200
+2022-02-07 20:24:56.232999,None,IntelCpHDCPSvc.exe,0.06398159524831326,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7465076a98274619\IntelCpHDCPSvc.exe,1336
+2022-02-07 20:24:56.232999,None,WUDFHost.exe,0.121398463265942,0.0,None,13,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\WUDFHost.exe,1420
+2022-02-07 20:24:56.232999,None,igfxEMN.exe,0.15476099493830137,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_aa253b3f3f01136e\igfxEMN.exe,1780
+2022-02-07 20:24:56.232999,None,SgrmBroker.exe,0.1118943059319659,0.0,None,7,NT AUTHORITY\SYSTEM,C:\Windows\System32\SgrmBroker.exe,1896
+2022-02-07 20:24:56.232999,None,DiagsCap.exe,0.13305820267566526,0.0,None,5,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_6838598e8963231b\x64\DiagsCap.exe,2872
+2022-02-07 20:24:56.232999,None,unsecapp.exe,0.09401277280360884,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Windows\System32\wbem\unsecapp.exe,2916
+2022-02-07 20:24:56.232999,None,dasHost.exe,0.1712707940184557,0.0,None,2,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\dasHost.exe,2984
+2022-02-07 20:24:56.232999,None,AppHelperCap.exe,0.12825713350695567,0.0,None,5,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_6838598e8963231b\x64\AppHelperCap.exe,3048
+2022-02-07 20:24:56.232999,None,SysInfoCap.exe,0.18322447643850812,0.0,None,11,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_6838598e8963231b\x64\SysInfoCap.exe,3092
+2022-02-07 20:24:56.232999,None,NetworkCap.exe,0.14599169513014817,0.0,None,5,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_6838598e8963231b\x64\NetworkCap.exe,3108
+2022-02-07 20:24:56.232999,None,TouchpointAnalyticsClientService.exe,0.6628414882922499,0.0,None,314,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_54a828a51f6769c8\x64\TouchpointAnalyticsClientService.exe,3288
+2022-02-07 20:24:56.232999,None,AppVShNotify.exe,0.08014846081641692,0.0,None,1,NT AUTHORITY\SYSTEM,C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVShNotify.exe,3452
+2022-02-07 20:24:56.232999,None,WmiPrvSE.exe,0.11620547008346022,0.0,None,4,NT AUTHORITY\SYSTEM,C:\Windows\System32\wbem\WmiPrvSE.exe,3632
+2022-02-07 20:24:56.232999,None,dasHost.exe,0.05325267537129901,0.0,None,1,NT AUTHORITY\NETWORK SERVICE,C:\Windows\System32\dasHost.exe,3920
+2022-02-07 20:24:56.232999,None,SecurityHealthSystray.exe,0.11228622994573813,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\SecurityHealthSystray.exe,4048
+2022-02-07 20:24:56.232999,None,SynTPEnhService.exe,0.1058684742202182,0.0,None,7,NT AUTHORITY\SYSTEM,C:\Windows\System32\SynTPEnhService.exe,4184
+2022-02-07 20:24:56.232999,None,igfxCUIServiceN.exe,0.12095754875044826,0.0,None,2,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_aa253b3f3f01136e\igfxCUIServiceN.exe,4484
+2022-02-07 20:24:56.232999,None,MemCompression,2.6571468323721397,0.0,None,786,NT AUTHORITY\SYSTEM,MemCompression,4516
+2022-02-07 20:24:56.232999,None,MpCopyAccelerator.exe,0.07588628716664413,0.0,None,2,NT AUTHORITY\SYSTEM,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2111.5-0\MpCopyAccelerator.exe,5032
+2022-02-07 20:24:56.232999,None,spoolsv.exe,0.26587145284272284,0.0,None,14,NT AUTHORITY\SYSTEM,C:\Windows\System32\spoolsv.exe,5084
+2022-02-07 20:24:56.232999,None,wlanext.exe,0.07049733197727624,0.0,None,1,NT AUTHORITY\SYSTEM,C:\Windows\System32\wlanext.exe,5456
+2022-02-07 20:24:56.232999,None,conhost.exe,0.0666760728429972,0.0,None,2,NT AUTHORITY\SYSTEM,C:\Windows\System32\conhost.exe,5464
+2022-02-07 20:24:56.232999,None,armsvc.exe,0.23481147475127523,0.0,None,5,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe,5560
+2022-02-07 20:24:56.232999,None,escsvc64.exe,0.06829275939980756,0.0,None,2,NT AUTHORITY\SYSTEM,C:\Windows\System32\escsvc64.exe,5596
+2022-02-07 20:24:56.232999,None,OneApp.IGCC.WinService.exe,0.4947060863839719,0.0,None,9,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_601c7757f6792eb2\OneApp.IGCC.WinService.exe,5604
+2022-02-07 20:24:56.232999,None,ibtsiva.exe,0.05981740260198353,0.0,None,1,NT AUTHORITY\SYSTEM,C:\Windows\System32\ibtsiva.exe,5612
+2022-02-07 20:24:56.232999,None,PMAService.exe,0.12316212132791696,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\EPSON Software\PMA_A\PMAService.exe,5628
+2022-02-07 20:24:56.232999,None,IntelAudioService.exe,0.23437056023578148,0.0,None,10,NT AUTHORITY\SYSTEM,C:\Windows\System32\cAVS\IAS\IntelAudioService.exe,5660
+2022-02-07 20:24:56.232999,None,esif_uf.exe,0.0784337932561635,0.0,None,4,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_21306a77b30fd6e0\esif_uf.exe,5696
+2022-02-07 20:24:56.232999,None,LMS.exe,0.11444181202148528,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_fddb643595e0b8d0\LMS.exe,5816
+2022-02-07 20:24:56.232999,None,pg_ctl.exe,0.0717220945203144,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\pg_ctl.exe,5836
+2022-02-07 20:24:56.232999,None,RzSDKService.exe,0.09925475648781214,0.0,None,18,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe,5872
+2022-02-07 20:24:56.232999,None,RzSDKServer.exe,0.12463183637956272,0.0,None,14,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe,5880
+2022-02-07 20:24:56.232999,None,RzChromaStreamServer.exe,0.09651128839140669,0.0,None,9,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaStreamServer.exe,5888
+2022-02-07 20:24:56.232999,None,GameManagerService.exe,1.04482043021499,0.0,None,22,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService.exe,5952
+2022-02-07 20:24:56.232999,None,RazerCentralService.exe,1.0487396703527119,0.0,None,36,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe,5964
+2022-02-07 20:24:56.232999,None,RstMwService.exe,0.08450861546963274,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_ba273d0ffb93e225\RstMwService.exe,5984
+2022-02-07 20:24:56.232999,None,RtkAudUService64.exe,0.2070828507768914,0.0,None,20,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_82608b626ba1b8a0\RtkAudUService64.exe,6044
+2022-02-07 20:24:56.232999,None,SECOMN64.exe,0.1159605175748526,0.0,None,6,NT AUTHORITY\SYSTEM,C:\Windows\System32\SECOMN64.exe,6092
+2022-02-07 20:24:56.232999,None,MsMpEng.exe,3.083364197349418,2.0,None,53,NT AUTHORITY\SYSTEM,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2111.5-0\MsMpEng.exe,6156
+2022-02-07 20:24:56.232999,None,BackgroundTransferHost.exe,0.17460214813551947,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\BackgroundTransferHost.exe,6388
+2022-02-07 20:24:56.232999,None,jhi_service.exe,0.06393260474659174,0.0,None,2,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_0b214be229a13e84\jhi_service.exe,6464
+2022-02-07 20:24:56.232999,None,postgres.exe,0.2426009645249979,0.0,None,3,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,6648
+2022-02-07 20:24:56.232999,None,conhost.exe,0.09249406725024152,0.0,None,4,NT AUTHORITY\NETWORK SERVICE,C:\Windows\System32\conhost.exe,6844
+2022-02-07 20:24:56.232999,None,AggregatorHost.exe,0.06902761692563046,0.0,None,3,NT AUTHORITY\SYSTEM,C:\Windows\System32\AggregatorHost.exe,7044
+2022-02-07 20:24:56.232999,None,postgres.exe,0.08637025453505075,0.0,None,3,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7292
+2022-02-07 20:24:56.232999,None,postgres.exe,0.10709323676325634,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7404
+2022-02-07 20:24:56.232999,None,postgres.exe,0.10444774967029392,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7412
+2022-02-07 20:24:56.232999,None,postgres.exe,0.14065173044250182,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7420
+2022-02-07 20:24:56.232999,None,postgres.exe,0.0978340319378879,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7428
+2022-02-07 20:24:56.232999,None,postgres.exe,0.09126930470720336,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7440
+2022-02-07 20:24:56.232999,None,postgres.exe,0.09499258283803935,0.0,None,2,NT AUTHORITY\NETWORK SERVICE,C:\Program Files\PostgreSQL\13\bin\postgres.exe,7452
+2022-02-07 20:24:56.232999,None,UpdateBrowserForApp.exe,0.26758612040297625,0.0,None,4,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Temp\IXP000.TMP\UpdateBrowserForApp.exe,7572
+2022-02-07 20:24:56.232999,None,Razer Synapse Service.exe,0.9416464335894557,0.7,None,43,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Razer\Synapse3\Service\Razer Synapse Service.exe,7728
+2022-02-07 20:24:56.232999,None,notepad++.exe,0.7347105543177289,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Program Files\Notepad++\notepad++.exe,7920
+2022-02-07 20:24:56.232999,None,ctfmon.exe,0.26435274728935554,0.0,None,14,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\ctfmon.exe,8420
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.3320086301667832,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,8716
+2022-02-07 20:24:56.232999,None,BraveCrashHandler64.exe,0.0128845019527614,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\BraveSoftware\Update\1.3.361.111\BraveCrashHandler64.exe,8920
+2022-02-07 20:24:56.232999,None,SynTPEnh.exe,0.2516642073434802,0.0,None,9,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\SynTPEnh.exe,9240
+2022-02-07 20:24:56.232999,None,E_YATIWAE.EXE,0.13227435464812082,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\spool\drivers\x64\3\E_YATIWAE.EXE,9576
+2022-02-07 20:24:56.232999,None,OfficeClickToRun.exe,0.5788227778398324,0.0,None,22,NT AUTHORITY\SYSTEM,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe,11088
+2022-02-07 20:24:56.232999,None,SearchIndexer.exe,0.5529557929308666,0.0,None,56,NT AUTHORITY\SYSTEM,C:\Windows\System32\SearchIndexer.exe,11204
+2022-02-07 20:24:56.232999,None,dllhost.exe,0.14172952148037538,0.0,None,4,NT AUTHORITY\SYSTEM,C:\Windows\System32\dllhost.exe,11236
+2022-02-07 20:24:56.232999,None,NisSrv.exe,0.12766924748629738,0.0,None,5,NT AUTHORITY\LOCAL SERVICE,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2111.5-0\NisSrv.exe,11472
+2022-02-07 20:24:56.232999,None,EEventManager.exe,0.16509799080154341,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\EPSON Software\Event Manager\EEventManager.exe,11956
+2022-02-07 20:24:56.232999,None,SecurityHealthService.exe,0.16402019976366983,0.0,None,8,NT AUTHORITY\SYSTEM,C:\Windows\System32\SecurityHealthService.exe,12880
+2022-02-07 20:24:56.232999,None,PMA.exe,0.17881533128357074,0.0,None,4,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\EPSON Software\PMA_A\PMA.exe,13544
+2022-02-07 20:24:56.232999,None,dllhost.exe,0.1602479311311123,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\dllhost.exe,15336
+2022-02-07 20:24:56.232999,None,bash.exe,0.11547061255763733,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Program Files\Git\usr\bin\bash.exe,15852
+2022-02-07 20:24:56.232999,None,firefox.exe,4.7012265262011,1.3,None,78,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,16184
+2022-02-07 20:24:56.232999,None,TabTip.exe,0.20331058214433387,0.0,None,8,DESKTOP-QVKQ76V\edwar,C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe,17756
+2022-02-07 20:24:56.232999,None,explorer.exe,2.842477900384673,4.7,None,100,DESKTOP-QVKQ76V\edwar,C:\Windows\explorer.exe,17780
+2022-02-07 20:24:56.232999,None,winlogon.exe,0.1273753044759682,0.0,None,6,NT AUTHORITY\SYSTEM,C:\Windows\System32\winlogon.exe,18316
+2022-02-07 20:24:56.232999,None,Win32Bridge.Server.exe,0.28321409045214313,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2111.12605.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe,19312
+2022-02-07 20:24:56.232999,None,FileCoAuth.exe,0.3058966927492098,0.0,None,9,DESKTOP-QVKQ76V\edwar,C:\Program Files\Microsoft OneDrive\22.002.0103.0004\FileCoAuth.exe,19836
+2022-02-07 20:24:56.232999,None,BraveCrashHandler.exe,0.021114906241977805,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\BraveSoftware\Update\1.3.361.111\BraveCrashHandler.exe,20924
+2022-02-07 20:24:56.232999,None,firefox.exe,1.428563030199705,1.3,None,28,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,21248
+2022-02-07 20:24:56.232999,None,EXCEL.EXE,2.1066405645273494,0.7,None,44,DESKTOP-QVKQ76V\edwar,C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE,21688
+2022-02-07 20:24:56.232999,None,dwm.exe,1.2460734112870198,0.7,None,22,Window Manager\DWM-15,C:\Windows\System32\dwm.exe,21944
+2022-02-07 20:24:56.232999,None,SystemSettings.exe,1.0674050515086135,0.0,None,27,DESKTOP-QVKQ76V\edwar,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,21976
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.4138717585434536,0.7,None,14,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,22124
+2022-02-07 20:24:56.232999,None,firefox.exe,0.5029854811749098,0.0,None,28,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,22252
+2022-02-07 20:24:56.232999,None,FUFAXSTM.exe,0.2077197272992712,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\EPSON Software\FAX Utility\FUFAXSTM.exe,22588
+2022-02-07 20:24:56.232999,None,AutoHotkey.exe,0.1490780967386043,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files\AutoHotkey\AutoHotkey.exe,22904
+2022-02-07 20:24:56.232999,None,MsMpEngCP.exe,1.2406354655959302,0.0,None,6,NT AUTHORITY\SYSTEM,C:\ProgramData\Microsoft\Windows Defender\Scans\MsMpEngCP.exe,22936
+2022-02-07 20:24:56.232999,None,splwow64.exe,0.12566063691571477,0.0,None,4,DESKTOP-QVKQ76V\edwar,C:\Windows\splwow64.exe,23588
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.3807051888779803,0.0,None,17,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,23960
+2022-02-07 20:24:56.232999,None,CefSharp.BrowserSubprocess.exe,0.6330552632455619,0.7,None,21,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe,24284
+2022-02-07 20:24:56.232999,None,sihost.exe,0.4354275793009251,0.0,None,12,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\sihost.exe,24928
+2022-02-07 20:24:56.232999,None,firefox.exe,3.6405331734283357,0.7,None,49,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,25704
+2022-02-07 20:24:56.232999,None,ShellExperienceHost.exe,0.8854053376131436,0.0,None,22,DESKTOP-QVKQ76V\edwar,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,26168
+2022-02-07 20:24:56.232999,None,Discord.exe,2.2265693127416455,2.0,None,55,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,26184
+2022-02-07 20:24:56.232999,None,Razer Central.exe,1.2507275089505645,0.0,None,38,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe,27448
+2022-02-07 20:24:56.232999,None,bash.exe,0.05472239042294481,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Program Files\Git\bin\bash.exe,27620
+2022-02-07 20:24:56.232999,None,firefox.exe,0.39981148454937554,0.0,None,20,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,28004
+2022-02-07 20:24:56.232999,None,RtkAudUService64.exe,0.13011877257237367,0.0,None,7,NT AUTHORITY\SYSTEM,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_82608b626ba1b8a0\RtkAudUService64.exe,28624
+2022-02-07 20:24:56.232999,None,dllhost.exe,0.20105701906514367,0.0,None,6,DESKTOP-QVKQ76V\edwar,C:\Windows\SysWOW64\dllhost.exe,28760
+2022-02-07 20:24:56.232999,None,StartMenuExperienceHost.exe,1.1591642612330322,0.0,None,20,DESKTOP-QVKQ76V\edwar,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,29204
+2022-02-07 20:24:56.232999,None,firefox.exe,1.3247521570517906,0.0,None,28,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,29256
+2022-02-07 20:24:56.232999,None,ONENOTEM.EXE,0.021506830255750013,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE,29292
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.11958581470224554,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,29404
+2022-02-07 20:24:56.232999,None,OpenConsole.exe,0.10861194231662366,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.11.3471.0_x64__8wekyb3d8bbwe\OpenConsole.exe,29640
+2022-02-07 20:24:56.232999,None,SearchHost.exe,1.3868721132346862,0.0,None,67,DESKTOP-QVKQ76V\edwar,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe,29708
+2022-02-07 20:24:56.232999,None,firefox.exe,1.8846156107253926,0.0,None,28,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,29880
+2022-02-07 20:24:56.232999,None,Discord.exe,0.43248814919763356,0.0,None,9,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,30276
+2022-02-07 20:24:56.232999,None,AutoHotkey.exe,0.10047951903085031,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files\AutoHotkey\AutoHotkey.exe,30376
+2022-02-07 20:24:56.232999,None,ApplicationFrameHost.exe,0.4441478886073568,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\ApplicationFrameHost.exe,30456
+2022-02-07 20:24:56.232999,None,Razer Synapse Service Process.exe,0.6877776536685067,0.0,None,19,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\Razer\Synapse3\UserProcess\Razer Synapse Service Process.exe,30488
+2022-02-07 20:24:56.232999,None,dllhost.exe,0.2058580882338532,0.0,None,9,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\dllhost.exe,30632
+2022-02-07 20:24:56.232999,None,Discord.exe,0.2831161094487001,0.0,None,7,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,30708
+2022-02-07 20:24:56.232999,None,firefox.exe,0.1733283950907598,0.0,None,6,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,31128
+2022-02-07 20:24:56.232999,None,WmiPrvSE.exe,0.20164490508580196,0.0,None,10,NT AUTHORITY\NETWORK SERVICE,C:\Windows\System32\wbem\WmiPrvSE.exe,31172
+2022-02-07 20:24:56.232999,None,Discord.exe,0.4544848844705988,0.0,None,8,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,31336
+2022-02-07 20:24:56.232999,None,SECOCL64.exe,0.11664638459895395,0.0,None,14,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\SECOCL64.exe,31384
+2022-02-07 20:24:56.232999,None,cmd.exe,0.12992281056548757,0.0,None,4,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\cmd.exe,31908
+2022-02-07 20:24:56.232999,None,CefSharp.BrowserSubprocess.exe,0.43964076244897643,0.0,None,15,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe,31912
+2022-02-07 20:24:56.232999,None,YourPhone.exe,0.12899199103277856,0.0,None,14,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhone.exe,32776
+2022-02-07 20:24:56.232999,None,WindowsTerminal.exe,0.9092637119515268,0.0,None,10,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.11.3471.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe,32908
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.11032660987687706,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,33120
+2022-02-07 20:24:56.232999,None,python.exe,0.24887174874535326,55.0,None,4,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Programs\Python\Python310\python.exe,33236
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.699535374081673,0.0,None,27,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,33820
+2022-02-07 20:24:56.232999,None,fontdrvhost.exe,0.13104959210508266,0.0,None,5,Font Driver Host\UMFD-15,C:\Windows\System32\fontdrvhost.exe,34384
+2022-02-07 20:24:56.232999,None,firefox.exe,0.399664513044211,0.0,None,20,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,34432
+2022-02-07 20:24:56.232999,None,csrss.exe,0.08210808088527796,0.0,None,15,NT AUTHORITY\SYSTEM,C:\Windows\System32\csrss.exe,34772
+2022-02-07 20:24:56.232999,None,firefox.exe,0.40142817110618595,0.0,None,20,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,34800
+2022-02-07 20:24:56.232999,None,SystemSettingsBroker.exe,0.38687799209489265,0.0,None,12,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\SystemSettingsBroker.exe,34824
+2022-02-07 20:24:56.232999,None,onenoteim.exe,0.04149495495813272,0.0,None,27,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16001.14326.20674.0_x64__8wekyb3d8bbwe\onenoteim.exe,34872
+2022-02-07 20:24:56.232999,None,firefox.exe,0.9667785609725986,0.0,None,28,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,35064
+2022-02-07 20:24:56.232999,None,conhost.exe,0.0775029737234545,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\conhost.exe,35080
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.17984413181972278,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,35108
+2022-02-07 20:24:56.232999,None,Razer Synapse 3.exe,1.3175505532987264,0.7,None,33,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe,35304
+2022-02-07 20:24:56.232999,None,conhost.exe,0.24965559677289764,0.7,None,4,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\conhost.exe,35308
+2022-02-07 20:24:56.232999,None,firefox.exe,3.025457424314574,6.6,None,30,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,35584
+2022-02-07 20:24:56.232999,None,OneDrive.exe,0.8579706566490888,0.0,None,27,DESKTOP-QVKQ76V\edwar,C:\Program Files\Microsoft OneDrive\OneDrive.exe,36236
+2022-02-07 20:24:56.232999,None,RuntimeBroker.exe,0.3489103532607098,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\RuntimeBroker.exe,36344
+2022-02-07 20:24:56.232999,None,EPPCCMON.EXE,0.11473575503181442,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\EPSON Software\Epson Printer Connection Checker\EPPCCMON.EXE,36480
+2022-02-07 20:24:56.232999,None,UserOOBEBroker.exe,0.10131235756011625,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\oobe\UserOOBEBroker.exe,36620
+2022-02-07 20:24:56.232999,None,Discord.exe,1.1237441284883687,0.7,None,37,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,36628
+2022-02-07 20:24:56.232999,None,UpdateBrowserForApp.exe,0.093375896281229,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Microsoft\BingWallpaperApp\UpdateBrowserForApp.exe,36716
+2022-02-07 20:24:56.232999,None,LockApp.exe,0.640501819507234,0.0,None,13,DESKTOP-QVKQ76V\edwar,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,36808
+2022-02-07 20:24:56.232999,None,TextInputHost.exe,1.2984442576273312,0.0,None,36,DESKTOP-QVKQ76V\edwar,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe,36820
+2022-02-07 20:24:56.232999,None,AutoHotkey.exe,0.10043052852912879,0.0,None,1,DESKTOP-QVKQ76V\edwar,C:\Program Files\AutoHotkey\AutoHotkey.exe,37052
+2022-02-07 20:24:56.232999,None,firefox.exe,0.3550341659759006,0.0,None,6,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,37112
+2022-02-07 20:24:56.232999,None,Cortana.exe,0.8641924503677227,0.0,None,12,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2111.12605.0_x64__8wekyb3d8bbwe\Cortana.exe,37208
+2022-02-07 20:24:56.232999,None,AutoHotkey.exe,0.10096942404806555,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files\AutoHotkey\AutoHotkey.exe,37372
+2022-02-07 20:24:56.232999,None,firefox.exe,1.2520502524970458,0.0,None,29,DESKTOP-QVKQ76V\edwar,C:\Program Files\Mozilla Firefox\firefox.exe,38320
+2022-02-07 20:24:56.232999,None,Discord.exe,1.1841984076127319,0.0,None,12,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Discord\app-1.0.9003\Discord.exe,38324
+2022-02-07 20:24:56.232999,None,FUFAXRCV.exe,0.18944627015714194,0.0,None,5,DESKTOP-QVKQ76V\edwar,C:\Program Files (x86)\EPSON Software\FAX Utility\FUFAXRCV.exe,38372
+2022-02-07 20:24:56.232999,None,taskhostw.exe,0.267096215385761,0.0,None,10,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\taskhostw.exe,38416
+2022-02-07 20:24:56.232999,None,audiodg.exe,0.24681414767304916,0.0,None,6,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\audiodg.exe,38436
+2022-02-07 20:24:56.232999,None,dllhost.exe,0.21653801760914593,0.0,None,7,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\dllhost.exe,38520
+2022-02-07 20:24:56.232999,None,E_YATIWAE.EXE,0.13536075625657698,0.0,None,3,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\spool\drivers\x64\3\E_YATIWAE.EXE,38540
+2022-02-07 20:24:56.232999,None,RtkAudUService64.exe,0.156867586512327,0.0,None,12,DESKTOP-QVKQ76V\edwar,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_82608b626ba1b8a0\RtkAudUService64.exe,38692
+2022-02-07 20:24:56.232999,None,BingWallpaperApp.exe,0.8301930421729836,0.0,None,8,DESKTOP-QVKQ76V\edwar,C:\Users\edwar\AppData\Local\Microsoft\BingWallpaperApp\BingWallpaperApp.exe,38836
+2022-02-07 20:24:56.232999,None,Notepad.exe,0.22388659286737486,0.0,None,2,DESKTOP-QVKQ76V\edwar,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_10.2103.6.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,39068
